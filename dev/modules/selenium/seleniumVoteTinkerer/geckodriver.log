@@ -1,0 +1,37 @@
+1676802686746	geckodriver	INFO	Listening on 127.0.0.1:41013
+1676802687170	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "59381" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileNCOX5l"
+Gtk-Message: 10:31:27.212: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1676802688883	Marionette	INFO	Marionette enabled
+1676802688886	Marionette	INFO	Listening on port 44855
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 44855
+WebDriver BiDi listening on ws://127.0.0.1:59381
+1676802689088	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNCOX5l/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59381/devtools/browser/27aa0607-307e-4e97-8cf6-3655c00be9ac
+1676802710990	Marionette	INFO	Stopped listening on port 44855
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1676803185935	geckodriver	INFO	Listening on 127.0.0.1:34575
+1676803186355	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "40975" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileDsgk94"
+Gtk-Message: 10:39:46.379: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1676803187154	Marionette	INFO	Marionette enabled
+1676803187157	Marionette	INFO	Listening on port 38509
+Read port: 38509
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:40975
+1676803187411	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDsgk94/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:40975/devtools/browser/4556cb28-5e70-4e2f-aac4-786e0366ac7a
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 461))
+1676803203985	Marionette	INFO	Stopped listening on port 38509
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
